@@ -1,10 +1,10 @@
 a=5
-b=8
+b=191
 
 if a==b:
-    print("iguales")  
+    print("igualesdasds")  
 else:    
-    print("son diferentes")
+    print("son difereasdadntes")
     
 print("fin del programa")
 
