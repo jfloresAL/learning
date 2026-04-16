@@ -1,12 +1,14 @@
 a=5
 b=191
+c=12;
 
-if a==b:
+if a==b==c:
     print("igualesdasds")  
 else:    
-    print("son difereasdadntes")
+    print("uno de los 3 numeros son diferentes")
     
 print("fin del programa")
 
-print("cambio subido desde mi local")
+print("solo se que nada se ")
 print("modifico desde la nuber")
+print("agregue el c"
