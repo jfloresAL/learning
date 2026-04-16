@@ -4,9 +4,7 @@ b=191
 if a==b:
     print("igualesdasds")  
 else:    
-    print("son difereasdadntes")
+    print("arreeglars")
     
-print("fin del programa")
+print("ahi vamos de nuevo")
 
-print("cambio subido desde mi local")
-print("modifico desde la nuber")
