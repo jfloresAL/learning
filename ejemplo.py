@@ -1,6 +1,7 @@
 a=5
 b=191
-c=12
+c=12;
+b=1255
 
 if a==b==c:
     print("cambio con fechs y despues pull")  
