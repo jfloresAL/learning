@@ -1,8 +1,4 @@
-print("=== CALCULADORA ===")
-print("1. Sumar")
-print("2. Restar")
-print("3. Multiplicar")
-print("4. Dividir")
+
 
 opcion = input("Elige una opción (1-4): ")
 
@@ -11,15 +7,15 @@ num2 = float(input("Ingresa el segundo número: "))
 
 if opcion == "1":
     resultado = num1 + num2
-    print("Resultado:", resultado)
+    print("Resultado de cambio:", resultado)
 
 elif opcion == "2":
     resultado = num1 - num2
-    print("Resultado:", resultado)
+    print("Resultado de cambio :", resultado)
 
 elif opcion == "3":
     resultado = num1 * num2
-    print("Resultado:", resultado)
+    print("Resultado: de cambio", resultado)
 
 elif opcion == "4":
     if num2 == 0:
