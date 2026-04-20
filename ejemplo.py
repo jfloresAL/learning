@@ -13,13 +13,6 @@ elif opcion == "2":
     resultado = num1 - num2
     print(resultado)
 
-elif opcion == "3":
-    resultado = num1 * num2
-    print("Resultado: de cambio", resultado)
-
-elif opcion == "4":
-    if num2 == 0:
-        print("Error: No se puede dividir entre 0")
     else:
         resultado = num1 / num2
         print("Resultado:", resultado)
